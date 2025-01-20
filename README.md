@@ -1,6 +1,6 @@
-## Hi, I'm seolheun36
+# Hi, I'm seolheun36
 
-### Tech Stack
+## Tech Stack
 
 <div>
   <img src="https://img.shields.io/badge/java-f89917?style=for-the-badge&logo=openjdk&logoColor=white" />
